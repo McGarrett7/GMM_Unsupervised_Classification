@@ -1,0 +1,9 @@
+Metric,Value
+Number of Samples,569
+Number of Features,30
+Number of Components,2
+Covariance Type,full
+Converged,True
+Iterations,9
+Average LogLikelihood,0.16937373405936407
+Total LogLikelihood,96.37365467977816

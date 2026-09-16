@@ -1,0 +1,5 @@
+Metric,Score,Quality
+Accuracy,0.9402460456942003,Very Good
+ARI,0.7740159832538671,Acceptable
+NMI,0.661057152232675,Poor
+Silhouette,0.31448870991364997,Poor
