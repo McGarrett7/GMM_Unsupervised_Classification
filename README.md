@@ -4,7 +4,7 @@ Dự án này áp dụng mô hình **Gaussian Mixture Models (GMM)** để thự
 
 ## Cấu trúc thư mục
 
-Dự án được tổ chức thành các thư mục sau:
+<!--Dự án được tổ chức thành các thư mục sau: -->
 
 - `data/`: Chứa dữ liệu gốc (được tải về tự động qua script).
 - `results/`: Nơi lưu trữ các kết quả đầu ra của quá trình chạy.
@@ -32,9 +32,7 @@ pip install pandas scikit-learn matplotlib joblib
 
 ## Hướng dẫn sử dụng
 
-Để tái tạo lại các kết quả của dự án, bạn có thể chạy tuần tự các script trong thư mục `src/` từ cửa sổ dòng lệnh (terminal). Đảm bảo rằng bạn đang đứng ở thư mục gốc của dự án hoặc trong thư mục `src/`.
-
-Ví dụ (nếu bạn đang ở thư mục `src/`):
+Chạy tuần tự các script trong thư mục `src/`. Ví dụ (nếu bạn đang ở thư mục `src/`):
 
 ```bash
 python 01_load_data.py
